@@ -15,7 +15,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">
-<a href="https://telegram.dog/AnsiRobot">❦𝙰𝚗𝚜𝚒࿐☆​​​​​​​​​​</a>
+<a href="https://telegram.dog/myra_updates">❦Myra࿐☆​​​​​​​​​​</a>
 </h1>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -28,10 +28,10 @@
 <p align="center">
 <a href="https://github.com/BadshahAk/AnsiRobot/stargazers"><img src="https://img.shields.io/github/stars/BadshahAk/AnsiRobot?color=blue&logo=github&logoColor=blue&style=for-the-badge" alt="Stars" /></a>
 <a href="BadshahAk/AnsiRobot/network/members"> <img src="https://img.shields.io/github/forks/BadshahAk/AnsiRobot?color=blue&logo=github&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/BadshahAk/AnsiRobot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/dattudd/Myra/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-blue?style=for-the-badge&logo=python" alt="Python" /> </a>
 <a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=blue&label=pyrogram&logo=python&logoColor=blue&style=for-the-badge" /></a>
-<a href="https://github.com/BadshahAk/AnsiRobot/commits/BadshahAk"> <img src="https://img.shields.io/github/last-commit/BadshahAk/AnsiRobot?color=darkred&logo=github&logoColor=blue&style=for-the-badge" /></a>
+<a href="https://github.com/dattudd/Myra/commits/BadshahAk"> <img src="https://img.shields.io/github/last-commit/BadshahAk/AnsiRobot?color=darkred&logo=github&logoColor=blue&style=for-the-badge" /></a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=♥️Ansi♥️+Love+Chat+on+telegram;Chat+and+share+your+problem;Managed+by+ANDY%E2%9D%A4%EF%B8%8F"> 
@@ -55,7 +55,7 @@
     ♥️𝐃𝐄𝐏𝐋𝐎𝐘 ᴏɴ ʜᴇʀᴏᴋᴜ♥️
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/BadshahAk/AnsiRobot"> <img src="https://img.shields.io/badge/💜𝗗𝗘𝗣𝗟𝗢𝗬 ᴏɴ ʜᴇʀᴏᴋᴜ💜-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/dattudd/Myra"> <img src="https://img.shields.io/badge/💜𝗗𝗘𝗣𝗟𝗢𝗬 ᴏɴ ʜᴇʀᴏᴋᴜ💜-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">
      Special Credits 💖
@@ -63,7 +63,7 @@
 
 <p align="center">
 </h3>
-<a href="https://t.me/Honey_Singh_121"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-darkblue?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/mental_pillodu"><img src="https://img.shields.io/badge/-♦️SAGAR TIWARI♦️-darkblue?style=for-the-badge&logo=Telegram"></a>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  <p align="left"> 
